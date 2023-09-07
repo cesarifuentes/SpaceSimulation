@@ -15,7 +15,17 @@ The assignment list for my class can be found [here](https://people.engr.tamu.ed
 
 ## Installation & Usage
 
-To prepare the development environment, use this [tutorial](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/labs/L00/index.html). 
+To prepare the development environment, use this [tutorial](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/labs/L00/index.html).
+
+#### Dependecies
+
+- glew-2.1.0
+- glm-master
+- glfw-3.3.8
+
+#### Resources
+
+I removed all of the obj files that I purchased from the `/resources` folder. I've linked where you can download them [here](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/projects/Cesar_Fuentes/index.html).
 
 ## Contributing
 
@@ -25,4 +35,3 @@ to discuss what you would like to change.
 ## Acknowledgments
 
 I want to ackowledge my instructor [Shinjiro Sueda](https://people.engr.tamu.edu/sueda/index.html) who provided the tutorial for setting up the development environment and the starter code for this project.
-
