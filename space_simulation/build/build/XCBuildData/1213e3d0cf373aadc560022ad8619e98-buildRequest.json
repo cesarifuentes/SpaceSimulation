@@ -1,0 +1,76 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "79d790524d2b0366853206233f9f93cf244804f7c52cee59c18b1989cf073f64"
+    },
+    {
+      "guid" : "79d790524d2b0366853206233f9f93cfb00654d58be4cc0d2f88fc362ad9e1a5"
+    },
+    {
+      "guid" : "79d790524d2b0366853206233f9f93cf565fd010a3918b02fdcef1cab545dcd2"
+    },
+    {
+      "guid" : "79d790524d2b0366853206233f9f93cf5d18e5657cf14d6bf4438fffd3a6542f"
+    },
+    {
+      "guid" : "79d790524d2b0366853206233f9f93cf67cf0ef59857ef97f8aa734c47880a13"
+    },
+    {
+      "guid" : "79d790524d2b0366853206233f9f93cf4fda08ed4c0897d7823cae635adf3f8a"
+    },
+    {
+      "guid" : "79d790524d2b0366853206233f9f93cf01e81d450ab5eb3cf9c7941fbc848e35"
+    }
+  ],
+  "containerPath" : "/Users/cesarfuentes/Documents/school/Animation/A6/build/A6.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/cesarfuentes/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/cesarfuentes/Library/Developer/Xcode/DerivedData/A6-eikpczvkfblqcyaauoznhnkejjvc/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/cesarfuentes/Library/Developer/Xcode/DerivedData/A6-eikpczvkfblqcyaauoznhnkejjvc/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
