@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  A 3D OpenGL video game engine in C++ that simulates the physical movement of particles in space.</a>.
+  A 3D OpenGL video game engine in C++ that simulates the physical movement of particles in space.</a>
 </p>
 
 <p align="center">
