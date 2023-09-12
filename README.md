@@ -32,10 +32,6 @@ This is my final project for CSCE 450 (Computer Animation) at Texas A&M Universi
 
 ## 🛠️ Installation & Usage
 
-[![General badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&logoWidth=30.svg)]()
-[![General badge](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&logoWidth=30.svg)]()
-[![General badge](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&logoWidth=30.svg)]()
-
 To prepare the development environment, use this [tutorial](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/labs/L00/index.html).
 
 #### Dependecies
