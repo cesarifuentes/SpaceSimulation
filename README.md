@@ -41,11 +41,11 @@ To prepare the development environment, use this [tutorial](https://people.engr.
 
 I removed all of the obj files that I purchased from the `/resources` folder. I've linked where you can download them [here](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/projects/Cesar_Fuentes/index.html).
 
-## :wave: Contributing
+## :handshake: Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-## :mega: Acknowledgments
+## :speaking_head: Acknowledgments
 
 I want to ackowledge my instructor [Shinjiro Sueda](https://people.engr.tamu.edu/sueda/index.html) who provided the tutorial for setting up the development environment and the starter code for this project.
