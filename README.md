@@ -1,8 +1,5 @@
-<p align="center" style="font-size:64px">
-    🚀
-</p>
 <h1 align="center">
-  Space Simulation
+  :rocket: <br> Space Simulation
 </h1>
 
 <p align="center">
@@ -30,7 +27,7 @@
 
 This is my final project for CSCE 450 (Computer Animation) at Texas A&M University. The assignment list for my class can be found [here](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/projects/index.html), and you can see my own description of this project [here](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/projects/Cesar_Fuentes/index.html).
 
-## 🛠️ Installation & Usage
+## :wrench: Installation & Start Up
 
 To prepare the development environment, use this [tutorial](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/labs/L00/index.html).
 
@@ -44,14 +41,11 @@ To prepare the development environment, use this [tutorial](https://people.engr.
 
 I removed all of the obj files that I purchased from the `/resources` folder. I've linked where you can download them [here](https://people.engr.tamu.edu/sueda/courses/CSCE450/2022F/projects/Cesar_Fuentes/index.html).
 
-## 🫱‍🫲 Contributing
+## :wave: Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-## 🗣️ Acknowledgments
+## :mega: Acknowledgments
 
 I want to ackowledge my instructor [Shinjiro Sueda](https://people.engr.tamu.edu/sueda/index.html) who provided the tutorial for setting up the development environment and the starter code for this project.
-
-:+1:
-:rocket:
