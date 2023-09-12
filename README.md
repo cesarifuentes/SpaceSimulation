@@ -52,3 +52,6 @@ to discuss what you would like to change.
 ## 🗣️ Acknowledgments
 
 I want to ackowledge my instructor [Shinjiro Sueda](https://people.engr.tamu.edu/sueda/index.html) who provided the tutorial for setting up the development environment and the starter code for this project.
+
+:+1:
+:rocket:
